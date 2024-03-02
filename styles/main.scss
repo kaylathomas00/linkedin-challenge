@@ -36,9 +36,7 @@ h1 {
 		flex-direction: row;
 	}
 	@include desktop {
-		/**
-			TODO: Fix me
-		**/
+		flex-direction: row;
 	}
 }
 
